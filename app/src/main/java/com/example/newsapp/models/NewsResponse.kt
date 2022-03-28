@@ -1,4 +1,7 @@
-package com.example.newsapp
+package com.example.newsapp.models
+
+import com.example.newsapp.models.Article
+
 /**
  * Auto generated class by json to kotlin class
  */
